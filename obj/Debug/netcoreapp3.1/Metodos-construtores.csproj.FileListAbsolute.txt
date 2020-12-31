@@ -1,0 +1,13 @@
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Metodos-construtores\bin\Debug\netcoreapp3.1\Metodos-construtores.exe
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Metodos-construtores\bin\Debug\netcoreapp3.1\Metodos-construtores.deps.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Metodos-construtores\bin\Debug\netcoreapp3.1\Metodos-construtores.runtimeconfig.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Metodos-construtores\bin\Debug\netcoreapp3.1\Metodos-construtores.runtimeconfig.dev.json
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Metodos-construtores\bin\Debug\netcoreapp3.1\Metodos-construtores.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Metodos-construtores\bin\Debug\netcoreapp3.1\Metodos-construtores.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Metodos-construtores\obj\Debug\netcoreapp3.1\Metodos-construtores.csprojAssemblyReference.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Metodos-construtores\obj\Debug\netcoreapp3.1\Metodos-construtores.AssemblyInfoInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Metodos-construtores\obj\Debug\netcoreapp3.1\Metodos-construtores.AssemblyInfo.cs
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Metodos-construtores\obj\Debug\netcoreapp3.1\Metodos-construtores.csproj.CoreCompileInputs.cache
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Metodos-construtores\obj\Debug\netcoreapp3.1\Metodos-construtores.dll
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Metodos-construtores\obj\Debug\netcoreapp3.1\Metodos-construtores.pdb
+C:\Users\Ariel\OneDrive\Desktop\junior senai\Metodos-construtores\obj\Debug\netcoreapp3.1\Metodos-construtores.genruntimeconfig.cache
